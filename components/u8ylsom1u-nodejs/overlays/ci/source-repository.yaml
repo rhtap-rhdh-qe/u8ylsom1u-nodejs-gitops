@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u8ylsom1u-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/u8ylsom1u-nodejs
